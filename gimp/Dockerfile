@@ -1,4 +1,4 @@
-# Run gimp in a contianer
+# Run gimp in a contianer 
 #
 # docker run -d \
 #	-v /etc/localtime:/etc/localtime:ro \
